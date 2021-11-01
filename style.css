@@ -1,0 +1,81 @@
+.jumbotron {
+    margin-bottom: 30px;
+}
+
+#footer {
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+.card {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.card-text {
+    font-size: 1.5rem;
+}
+
+.card-title {
+    font-size: 3rem;
+}
+
+.btn {
+    font-size: 2rem;
+}
+
+body {
+    font-family: 'Ubuntu Mono', monospace;
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+a {
+    color: white;
+    text-decoration:none;
+}
+
+nav {
+    margin-bottom: 25px;
+    border: black solid 1px;
+}
+
+#nav-link {
+    color: black;
+    font-size: 1.75rem;
+    border-radius: 50px;
+}
+
+#nav-link:hover {
+    color: white;
+    background-color: black;
+    border-radius: 50px;
+}
+
+.navLink {
+    color: white;
+    padding: 24px;
+    margin: 12px;
+}
+
+.navLink:hover {
+    color: black;
+    background-color: white;
+    border-radius: 50px;
+}
+
+.social {
+    border:black 4px;
+    max-width:40px;
+}
+
+.social:hover {
+    border:black 4px;
+    max-width:60px;
+}
+
+.logo {
+    border:black 4px;
+    max-width:100px;
+}
